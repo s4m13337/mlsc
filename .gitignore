@@ -1,0 +1,6 @@
+# Ignore python environment files
+bin
+etc
+lib
+pyvenv.cfg
+share
