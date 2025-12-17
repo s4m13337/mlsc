@@ -14,3 +14,11 @@ After the virtual environment is activated, install the required packages with
 ```
 pip install -r requirements.txt
 ```
+
+## Accessing Python notebooks
+Python notebooks can be accessed conveniently with the jupyter notebook web interface. Start the jupyter notebook server with:
+```
+jupyter notebook
+```
+
+
