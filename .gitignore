@@ -7,3 +7,6 @@ etc
 lib
 pyvenv.cfg
 share
+
+# Ignore Jupyter notebook temporary files
+.ipynb_checkpoints
